@@ -1,0 +1,70 @@
+td {
+	width: 100px;
+	height: 100px;
+
+}
+
+.Are {
+	text-align: center;
+	text-shadow: 4px 4px 4px #aaa;
+	
+
+}
+.heart {
+  background-color: red;
+  height: 30px;
+  transform: rotate(-45deg);
+  width: 30px;
+}
+
+.Welcome  {
+	text-align: right;
+
+
+}
+
+h1	{
+	font-family: 'Fredericka the Great', cursive;
+}
+	
+.Medo1 {
+	border-left: 1px solid black ;
+	border-right: 1px solid black ;
+}
+
+
+
+.My {
+	text-align: center;
+}
+.But {
+	text-align: right;
+}
+.even {
+	text-align: left;
+}
+
+.Wel {
+	text-align: right;
+}
+
+body {
+	font-family: 'Fredericka the Great', cursive;
+}
+	.sam1 {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+
+	}
+
+	table {
+		margin: auto;
+
+	}
+
+	h1 {
+		text-align: center;
+	}
+	td:hover {
+		border: 1px solid gray ;
+	}

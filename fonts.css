@@ -1,0 +1,43 @@
+/*fonts-family*/ 
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+h1	{
+	font-family: 'Reenie Beanie', cursive;
+}
+/*fonts size*/
+h1	{
+	font-size: 89px;
+}
+span {
+	font-size: 2.0em;
+}
+p {
+	font-family: 'Major Mono Display', monospace;
+	font-size: 20px;
+}
+body {
+	font-size: 10px
+}
+/* fonts-weight*/
+p {
+	font-family: 'Major Mono Display', monospace;;
+}
+
+/*line-hight*/
+p {
+	line-height: 1.5
+}
+ /*text-align*/
+ h1 {
+ 	text-align: right;
+ 	text-shadow: 4px 4px 4px #aaa;
+ }
+
+p  {
+	text-align: right;
+}
+p {
+	font-family: 'Indie Flower', cursive;
+}
+

@@ -1,0 +1,24 @@
+h4 {
+	color: rgba(0,200,100,0.8);
+	text-decoration: underline;
+}
+li {
+	border: 2px solid red;
+}
+h1 {
+	background: rgb(255,100,80);
+}
+
+#XI {
+	color: green;
+}
+.completed {
+	text-decoration: underline ;
+}
+
+body {
+	background: url(https://www.freegreatpicture.com/files/30/20531-high-resolution-landscapes.jpg);
+}
+div {
+	color: #c1c0ce
+}

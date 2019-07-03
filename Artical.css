@@ -1,0 +1,94 @@
+body {
+	border: 20px solid #bdc3c7;
+	padding:20px;
+	margin: 20px auto;
+	max-width:700px;
+	width: 80%;
+
+}
+body {
+	
+
+    font-family: 'IM Fell English SC', serif;
+
+
+}
+
+img {
+	width: 30%;
+	border: 1px solid gray;
+    border-bottom: 50px ;
+	float: left;
+margin: 1.66%
+}
+
+h2 {
+	font-family: 'Monoton', cursive;
+	text-shadow: 4px 4px 4px #aaa;
+	text-align: center;
+	clear: left;
+}
+.quote {
+	text-shadow: 4px 4px 4px #aaa;
+	text-height :1.5;
+	border-left: 5px solid gray ;
+	padding-left: 5px;
+	clear: center;
+	border-bottom: 1px solid gray;
+	border-width: 1px solid red ;
+	/*text-align: center;*/
+}
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+
+.post {
+	margin-bottom: 44px ;
+	
+}
+
+
+hr {
+    overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
+}
+hr { /* Not really supposed to work, but does */
+    display: block;
+    content: "";
+    height: 30px;
+    margin-top: -31px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0 0 1px 0;
+    border-radius: 20px;
+}
+
+img:hover {
+	border: 1px solid #B1CA13 ;
+
+
+}
+.End {
+	text-align: center;
+	font-family: 'Monoton', cursive;
+	text-shadow: 4px 4px 4px #aaa;
+}
+.quote:hover {
+	border: 1px solid #6DB1A7 ;
+	padding: 100px;
+	margin: auto;
+line-height: 1.7;
+	padding:20px;
+	margin: 20px auto;
+	max-width:700px;
+	width: 80%;
+}
+
+
